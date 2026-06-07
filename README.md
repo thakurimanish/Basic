@@ -1,4 +1,4 @@
 # Basic
 name:Manish Shah
-cout<<"\n"
+<br>
 college:Lagcc
