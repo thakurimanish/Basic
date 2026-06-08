@@ -1,4 +1,4 @@
 # Basic
 name:Manish Shah
 <br>
-college:Lagcc
+college:Lagc college
